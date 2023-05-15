@@ -1,5 +1,10 @@
 ### Hi there 👋
-<h2 style="letter-spacing: 0.1em;"><b>🌐 KNOWN LANGUAGES</b></h2>
+<h2><b>ABOUT ME</b></h2>
+<p>Hello!</p>
+	
+<br>
+	
+<h2><b>KNOWN LANGUAGES</b></h2>
 <ul>
 	<li><code>HTML</code></li>
 	<li><code>CSS</code></li>
