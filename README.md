@@ -1,4 +1,15 @@
 ### Hi there 👋
+<h2 style="letter-spacing: 0.1em;"><b>🌐 KNOWN LANGUAGES</b></h2>
+<ul>
+	<li><code>HTML</code></li>
+	<li><code>CSS</code></li>
+	<li><code>Javascript</code></li>
+	<li><code>Java</code></li>
+	<li><code>Python</code></li>
+	<li><code>C</code></li>
+	<li><code>Kotlin</code></li>
+</ul>
+
 https://projecteuler.net/
 https://leetcode.com/
 
