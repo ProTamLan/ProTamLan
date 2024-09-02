@@ -6,12 +6,14 @@
 	
 <h2><b>KNOWN LANGUAGES</b></h2>
 <ul>
-	<li><code>HTML</code></li>
-	<li><code>CSS</code></li>
+	<li><code>Python</code></li>
+	<li><code>C/C++</code></li>
+	<li><code>x86 Assembly</code></li>
+	<li><code>MATLAB</code></li>
+	<li><code>Verilog/VHDL</code></li>
+	<li><code>HTML & CSS</code></li>
 	<li><code>Javascript</code></li>
 	<li><code>Java</code></li>
-	<li><code>Python</code></li>
-	<li><code>C</code></li>
 	<li><code>Kotlin</code></li>
 </ul>
 
