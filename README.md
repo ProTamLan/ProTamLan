@@ -1,8 +1,7 @@
 ### Hi there 👋
 <h2><b>ABOUT ME</b></h2>
 <p>Hello!</p>
-<p>Check out my Portfolio!</p>
-protamlan.github.io
+<p>Check out my [Portfolio](https://protamlan.github.io/)!</p>
 <br>
 	
 <h2><b>KNOWN LANGUAGES</b></h2>
